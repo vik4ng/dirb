@@ -1,4 +1,5 @@
-
+.httpwd
+.svn
 .bash_history
 .bashrc
 .cache
